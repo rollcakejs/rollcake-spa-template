@@ -1,0 +1,11 @@
+{
+  "name": "rollcake-spa-template",
+  "private": true,
+  "workspaces": [
+    "./*",
+    "./micro-apps/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
