@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
-    "@rollcakejs/rollcake-spa": "^0.0.1",
+    "@rollcakejs/rollcake-spa": "^0.0.6",
     "core-js": "^3.6.5"
   }
 }
